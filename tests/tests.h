@@ -7,7 +7,8 @@
 #include <limits.h>
 #include <time.h>
 #include <assert.h>
-#include "../json.h"
+#define JSON_IMPLEMENTATION
+#include "../include/json.h"
 
 static bool nameless_tests = false;
 

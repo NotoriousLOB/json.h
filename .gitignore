@@ -11,3 +11,4 @@ a.out
 tests/bench/
 tests/fuzz/testdata
 fuzz.prog
+build
